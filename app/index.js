@@ -9,6 +9,10 @@ const App = () => {
       id: 1,
       name: "HexagonCarousel",
     },
+    {
+      id: 2,
+      name: "Radar",
+    },
   ];
 
   return (
